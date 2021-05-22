@@ -1,0 +1,20 @@
+1) E
+
+2) a) Raíz: A
+   b) Folhas: G, Y, R, W, I, M, 7, &, 3, 9, 5, 8, #
+   c) R: 3º Nível ; F: 2º Nível ; E: 1º Nível
+   d) B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, 4, 6, &, 3, 9, 5, 8, #
+   e) 5
+   f) n = 1+2+4+8+16+32= 63 nós totais; 2x2x2x2x2 = 32 nós folhas.
+
+3) 20
+
+4) B
+
+5) E
+
+6) A
+
+7) E
+
+8) B

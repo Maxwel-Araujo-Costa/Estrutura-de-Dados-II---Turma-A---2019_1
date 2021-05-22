@@ -1,0 +1,10 @@
+1) B
+2) B
+3) D
+4) A
+5) B
+
+7) A busca sequencial é mais interessante de se usar, apenas até a letra E. A busca sequencial
+é muito mais simples de se utilizar, então enquanto ela for superior ou equivalente a binária
+ela ganha preferência. Porém após a letra "E", a busca sequencial passa a necessitar de mais
+iterações do que a binária para encontrar a letra desejada.

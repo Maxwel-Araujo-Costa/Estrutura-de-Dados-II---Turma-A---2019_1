@@ -1,0 +1,5 @@
+2) ACMaa . "A, C, M" apracem primeiro por serem maiusculas (maiúsculas tem preferência), em seguida "a a" aparecem por serem as letras
+de menor valor.
+
+4) strcmp: compara duas strings, letra por letra, e testa se as duas palavras são iguais.
+   strcpy: copia uma string, e a transfere para um array indicado.
